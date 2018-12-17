@@ -1,0 +1,29 @@
+{
+  "name": "event-booking-graphql-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fi-nix/event-booking-graphql-react.git"
+  },
+  "author": "fi-nix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fi-nix/event-booking-graphql-react/issues"
+  },
+  "homepage": "https://github.com/fi-nix/event-booking-graphql-react#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
