@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER":  "finix_dev",
+        "MONGO_PASSWORD": "aQ9ePLWPIw5Qe3C3",
+        "MONGO_DB": "event-graphgl-react"
+    }
+}
